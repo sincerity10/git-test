@@ -1,0 +1,3 @@
+- git init: 초기에 git 설정할 때 사용 새로운 저장소의 생성
+- git remote add https://github.com/~~/~~.git: init 해서 생성된 Repository에 등록할 때 사용
+- git add,commit,push: git에 파일을 등록할 때 사용
